@@ -1,0 +1,22 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daan-Grashoff/Jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daan-Grashoff/Jenkins/issues"
+  },
+  "homepage": "https://github.com/Daan-Grashoff/Jenkins#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
