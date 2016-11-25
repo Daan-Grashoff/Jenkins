@@ -1,0 +1,7 @@
+web:
+  build: .
+  volumes:
+    - "./"
+  ports:
+    - "3030:3000"
+  command: nodemon app.js
